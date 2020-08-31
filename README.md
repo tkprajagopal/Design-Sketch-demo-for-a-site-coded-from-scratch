@@ -57,8 +57,8 @@ a:hover {
     <p>Hi there, I'm a HSC student from Govt. Hr. Sce. School, India. I like watching animes like Kuroko no Basket, Death Note. I like listening to music especially K-pop. My favourite band is BTS.</p>
 </details>
 <p>
-<img src="./Jeevita_files/images" alt="WD4E" style="float">
-<img src="./Jeevita_files/Kuroko-no-Basuke.jpg" alt="KNB" style="float">
+<img src="https://github.com/tkprajagopal/Design-Sketch-demo-for-a-site-coded-from-scratch/blob/master/Rajagopal_files/images" alt="WD4E" style="float">
+<img src="https://github.com/tkprajagopal/Design-Sketch-demo-for-a-site-coded-from-scratch/blob/master/Rajagopal_files/Kuroko-no-Basuke.jpg" alt="KNB" style="float">
 </p>
 
 
